@@ -5,7 +5,7 @@ import Product from "./Products/Product";
 function App() {
   return (
   <>
-  <Navigation/>;
+  <Navigation/>
   <Product/>
   <Recommended/>
   </>
