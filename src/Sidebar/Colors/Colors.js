@@ -5,7 +5,7 @@ function Colors({handleChange}) {
     return <div>
       <h2 className="sidebar-title color-title">Colors</h2>
       <label className="sidebar-label-container">
-          <input onChange={handleChange} type="radio" value="" name="test2"></input>
+          <input onChange={handleChange} type="radio" value="" name="test1"/>
           <span className="checkmark all"></span>All
         </label>
       <Input

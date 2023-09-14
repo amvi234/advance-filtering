@@ -1,13 +1,12 @@
-import Card from "../components/Card";
 import "./Product.css";
 
-function Product() {
+function Products({result}) {
   return (
     <>
       <section className="card-container">
-     <Card/>
+        {result}
       </section>
     </>
   );
 }
-export default Product;
+export default Products;
