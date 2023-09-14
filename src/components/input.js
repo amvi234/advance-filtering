@@ -1,6 +1,7 @@
-function Buttons() {
-  return (
-    <div>Buttons</div>
-  )
+function Input() {
+  return <label className="sidebar-label-container color-title">
+  <input type="radio" name="test2" />
+  <span className="checkmark"></span>All
+</label>
 }
-export default Buttons;
+export default Input;
