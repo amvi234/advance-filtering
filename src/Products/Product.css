@@ -7,6 +7,7 @@
 }
 
 .card {
+    height: auto;
     margin: 20px;
     border: 2px solid #ededed;
     padding: 20px;
@@ -14,7 +15,8 @@
 }
 
 .card-img{
-    width: 13rem;
+    height: 12rem;
+    width: 16rem;
     margin-bottom: 1rem;
 }
 
