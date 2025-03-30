@@ -1,0 +1,27 @@
+{
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ],
+    "plugins": [
+      "react",
+      "import",
+      "jsx-a11y",
+      "react-hooks",
+      "oxlint"
+    ],
+    "rules": {
+      "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+      "react/jsx-uses-react": "error",
+      "react/jsx-uses-vars": "error",
+      "react-hooks/rules-of-hooks": "error",
+      "react-hooks/exhaustive-deps": "warn",
+      "no-unused-vars": "warn",
+      "no-console": "warn"
+    },
+    "settings": {
+      "react": {
+        "version": "detect"
+      }
+    }
+  }
