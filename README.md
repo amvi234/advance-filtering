@@ -4,3 +4,4 @@
 
 # Basic event handling with javascript
 
+# Responsive for all layouts
