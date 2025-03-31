@@ -31,17 +31,17 @@
 }
 
 .card-img{
-    height: 12rem;
-    width: 12rem;
-    margin-bottom: 1rem;
+    height: 120px;
+    width: 160px;
+    margin-bottom: 10px;
 }
 
 .card-title {
-    margin-bottom: 1rem;
+    margin-bottom: 10px;
 }
 
 .card-reviews {
-    margin-bottom: 1rem;
+    margin-bottom: 10px;
     display: flex;
 }
 
@@ -50,7 +50,7 @@
 }
 
 .total_reviews {
-    font-size: 0.9rem;
+    font-size: 10px;
     margin-left: 10px;
 }
 

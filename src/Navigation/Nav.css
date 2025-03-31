@@ -1,18 +1,9 @@
-nav {
-    display: flex;
-    border-bottom: 2px solod #f3f3f3;
-    align-items: center;
-    justify-content: space-around;
-    padding: 20px;
-    z-index: 999;
-    margin-left: 2rem;
-}
-
 input {
-    width: 14rem;
-    position: relative;
-    left: 2rem;
-    padding: 12px 20px;
+    position: fixed;
+    width: 170px;
+    padding: 8px 10px;
+    left: 50%;
+    top:5px;
     border: none;
     background-color: lightgreen;
     outline: none;
@@ -20,9 +11,8 @@ input {
     border-radius: 5px;
 }
 
-
 .nav-icons {
-    width: 1.5rem;
-    height: 1.5rem;
-    margin-left: 2rem;
+    width: 15px;
+    height: 15px;
+    margin-left: 20ppx;
   }
