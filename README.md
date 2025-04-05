@@ -1,6 +1,6 @@
-# Advance Filtering App
+# SoleMate Aoo
 
-This application allows users to advance filter e-commerce items through it.
+This application allows users to advance filter shoe items through it.
 
 ## Development
 
