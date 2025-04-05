@@ -1,6 +1,7 @@
-# SoleMate Aoo
+# SoleMate App
 
 This application allows users to advance filter shoe items through it.
+Hosted on Netlify, and Responsive with all layouts.
 
 ## Development
 
